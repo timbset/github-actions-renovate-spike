@@ -7,11 +7,7 @@
   "packageRules": [
     {
       "matchManagers": ["github-actions"],
-      "pinDigests": true,
-      "pinDigestComment": true,
-      "digest": {
-        "comment": true
-      }
+      "pinDigests": true
     }
   ],
   "dependencyDashboard": true,
