@@ -24,3 +24,6 @@ jobs:
 
       # Pre-release
       - uses: actions/checkout@71cf2267d89c5cb81562390fa70a37fa40b1305e # v6-beta
+
+      # Tag version
+      - uses: actions/checkout@v3.4.0
